@@ -129,6 +129,7 @@ set(msg_files
 	vehicle_status.msg
 	vehicle_status_flags.msg
 	vtol_vehicle_status.msg
+	waypoint_list.msg
 	wind_estimate.msg
 	)
 

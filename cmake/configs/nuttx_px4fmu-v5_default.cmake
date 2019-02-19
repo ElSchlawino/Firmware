@@ -77,6 +77,11 @@ set(config_module_list
 	systemcmds/tests
 
 	#
+	# iFR Modules
+	#
+	modules/waypoint_publisher
+	
+	#
 	# General system control
 	#
 	modules/commander
